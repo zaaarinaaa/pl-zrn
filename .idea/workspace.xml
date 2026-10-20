@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fe0659a-b954-4576-9802-4241cf6c27a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task3A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3B2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3D4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3E5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3F6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3G7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3H8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3I9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3J10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3K11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3L12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3M13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3N14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3O15.java" afterDir="false" />
+    <list default="true" id="46986094-2b8a-4a8a-9480-b62952d104ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Task4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +50,11 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="3KJQlPVELsSt9ENG6nuKOmwFQNf" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3KwyuRI8Vrg8gLCuWr5O5JrEsjM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -67,13 +64,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Task3A1.executor": "Run",
+    "Application.Task4_1.executor": "Run",
+    "Application.Task4_10.executor": "Run",
+    "Application.Task4_11.executor": "Run",
+    "Application.Task4_2.executor": "Run",
+    "Application.Task4_3.executor": "Run",
+    "Application.Task4_4.executor": "Run",
+    "Application.Task4_5.executor": "Run",
+    "Application.Task4_6.executor": "Run",
+    "Application.Task4_8.executor": "Run",
+    "Application.Task4_9.executor": "Run",
+    "Application.Test.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -98,14 +104,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1fe0659a-b954-4576-9802-4241cf6c27a2" name="Changes" comment="" />
-      <created>1791273342384</created>
+      <changelist id="46986094-2b8a-4a8a-9480-b62952d104ae" name="Changes" comment="" />
+      <created>1792483147528</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1791273342384</updated>
-      <workItem from="1791273343535" duration="1738000" />
-      <workItem from="1791276841150" duration="665000" />
-      <workItem from="1791877917140" duration="1511000" />
+      <updated>1792483147528</updated>
+      <workItem from="1792483148648" duration="969000" />
     </task>
     <servers />
   </component>
