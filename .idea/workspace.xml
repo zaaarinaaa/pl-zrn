@@ -4,20 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46986094-2b8a-4a8a-9480-b62952d104ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="490572d8-0e37-4ff5-bd24-b4ae1a9088ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
   "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="3KwyuRI8Vrg8gLCuWr5O5JrEsjM" />
+  <component name="ProjectId" id="3LGjqKPSfNRqiOsSPyPgpPexs7y" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -64,17 +68,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Task4_1.executor": "Run",
-    "Application.Task4_10.executor": "Run",
-    "Application.Task4_11.executor": "Run",
-    "Application.Task4_2.executor": "Run",
-    "Application.Task4_3.executor": "Run",
-    "Application.Task4_4.executor": "Run",
-    "Application.Task4_5.executor": "Run",
-    "Application.Task4_6.executor": "Run",
-    "Application.Task4_8.executor": "Run",
-    "Application.Task4_9.executor": "Run",
-    "Application.Test.executor": "Run",
+    "Application.B.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,12 +98,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46986094-2b8a-4a8a-9480-b62952d104ae" name="Changes" comment="" />
-      <created>1792483147528</created>
+      <changelist id="490572d8-0e37-4ff5-bd24-b4ae1a9088ab" name="Changes" comment="" />
+      <created>1793087488421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1792483147528</updated>
-      <workItem from="1792483148648" duration="969000" />
+      <updated>1793087488421</updated>
+      <workItem from="1793087489463" duration="758000" />
     </task>
     <servers />
   </component>
